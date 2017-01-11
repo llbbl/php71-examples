@@ -1,1 +1,1 @@
- php -S localhost:8000
+ php -d  display_errors=On -S localhost:8000

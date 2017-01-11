@@ -20,7 +20,7 @@ function test(?string $name)
     var_dump($name);
 }
 
-test('elePHPant');
+test('elePHPantZ');
 test(null);
-test();
+// test();
 

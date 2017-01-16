@@ -30,4 +30,14 @@ Don't forget optionally add xdebug
 php7.1-xdebug
 ```
 
+### new features in 7.1
+
+http://php.net/manual/en/migration71.new-features.php
+
+### new features in 7.0
+
+http://php.net/manual/en/migration70.new-features.php
+
+http://blog.teamtreehouse.com/5-new-features-php-7
+
 
